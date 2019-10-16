@@ -41,13 +41,16 @@ Winner algorithm is RandomForest with a 99.373415 % success
 Saving algorithm and feature list in classifier directory...
 Saved
 False positive rate : 0.506591 %
-False negative rate : 0.907441 %``
+False negative rate : 0.907441 %
+```
 
 
 result
 --
 ```$ python checkpe.py malware.exe 
 The file malware.exe is malicious
+```
 
 ```$ python checkpe.py calc.exe 
 The file calc.exe is legitimate
+```
