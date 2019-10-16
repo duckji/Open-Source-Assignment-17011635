@@ -6,4 +6,3 @@ I used malware.exe file as a malicious file.
 
 And I used calc.exe as a normal file
 
-#hi
