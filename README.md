@@ -11,7 +11,8 @@ And I used calc.exe as a normal file
 
 learning
 --
-```$ python learning.py 
+```
+$ python learning.py 
 Researching important feature based on 54 total features
 
 /home/duckji/.local/lib/python2.7/site-packages/sklearn/ensemble/forest.py:246: FutureWarning: The default value of n_estimators will change from 10 in version 0.20 to 100 in 0.22.
@@ -47,10 +48,12 @@ False negative rate : 0.907441 %
 
 result
 --
-```$ python checkpe.py malware.exe 
+```
+$ python checkpe.py malware.exe 
 The file malware.exe is malicious
 ```
 
-```$ python checkpe.py calc.exe 
+```
+$ python checkpe.py calc.exe 
 The file calc.exe is legitimate
 ```
