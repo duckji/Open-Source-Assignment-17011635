@@ -11,7 +11,7 @@ And I used calc.exe as a normal file
 
 learning
 --
-`$ python learning.py 
+```$ python learning.py 
 Researching important feature based on 54 total features
 
 /home/duckji/.local/lib/python2.7/site-packages/sklearn/ensemble/forest.py:246: FutureWarning: The default value of n_estimators will change from 10 in version 0.20 to 100 in 0.22.
@@ -41,4 +41,4 @@ Winner algorithm is RandomForest with a 99.373415 % success
 Saving algorithm and feature list in classifier directory...
 Saved
 False positive rate : 0.506591 %
-False negative rate : 0.907441 %`
+False negative rate : 0.907441 %```
